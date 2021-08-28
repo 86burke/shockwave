@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Do not load large csv
+data/all_earthquake_data.csv
+
+
